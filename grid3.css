@@ -1,0 +1,46 @@
+.col{
+    border: 2px solid black;
+    padding: 10px;
+    
+}
+
+
+.side-bar{
+    height: 400px;
+    line-height: 200px;
+    background-color:  #03cea4;
+
+}
+
+.side-bar1{
+    height: 200px;
+    background-color: #FB4D3D ;
+
+}
+
+.side-bar2{
+    height: 170px;
+    margin-top: 20px 0px; 
+    width: 48%;
+    background-color: #B80053;
+
+}
+
+.side2{
+justify-content: center;
+margin-top: 10px;
+justify-content: space-evenly;
+height: 168px;
+overflow: hidden;
+
+}
+
+.handf{
+    height: 100px;
+    background-color: #2A4879;
+}
+
+
+body{
+    background-color: black;
+}
